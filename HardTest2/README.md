@@ -23,13 +23,13 @@
 
 #### Screenshot of the information messages shown when creating the workspace.
 
-![alt text](<Screenshot 2025-03-16 134749.png>)
+![alt text](<image/image2.png>)
 
 #### Screenshot of Positron working.
 
-![alt text](image.png)
+![alt text](image/image7.png)
 
-![alt text](image-1.png)
+![alt text](image/image8.png)
 
 #### Issues Faced
 
@@ -37,7 +37,7 @@
   
   Following message is shown while trying to install a Packages:
 
-   ![alt text](<Screenshot 2025-03-16 161620.png>)
+   ![alt text](<image/image3.png>)
 
   It is an error due to docker/devpod container and workspace creation. Though it does not cause any problem but this experience can for sure be smoothen.
 
@@ -45,19 +45,17 @@
 
  While trying to Knit a Rmd file, File is not Knitted and following message is displayed:
 
- ![alt text](<Screenshot 2025-03-16 205112.png>)
-
- ![alt text](<Screenshot 2025-03-16 165953.png>)
+ ![alt text](<image/image1.png>)
 
  3. **Unable to povide Documentation of a Self Built local Package**
 
  While trying to run a local package(Package that i built myself), it is able to use different function and even all test passes and everything work perfecly and no error is shown but it is unable to load the documentaion of package.
 
-![alt text](<Screenshot 2025-03-16 170926.png>)
+![alt text](<image/image6.png>)
 
 But in R studion it isn't a problem
 
-![alt text](<Screenshot 2025-03-16 170901.png>)
+![alt text](<image/image5.png>)
 
  This is not an issue with other packages available through CRAN/R org but package build locally in system are not able to load Documentation
 
@@ -65,7 +63,7 @@ But in R studion it isn't a problem
 
 Following message is displayed while trying to built few graphs:
 
- ![alt text](<Screenshot 2025-03-16 162918.png>)
+ ![alt text](<image/image4.png>)
 
  I am not sure exactly why this message is shown but graph are created with this error message. It might not be so smooth for new users.
 

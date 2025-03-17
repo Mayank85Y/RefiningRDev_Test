@@ -45,16 +45,18 @@ Here is the screenshot of R session required for Medium Test
 
 ### Script
 
-![alt text](<Screenshot 2025-03-15 185151.png>)
+![alt text](<image/image1.png>)
 
 ### Shell Running
 
-![alt text](<Screenshot 2025-03-15 185321.png>)
+![alt text](<image/image2.png>)
 
-![alt text](<Screenshot 2025-03-15 185353.png>)
+![alt text](<image/image3.png>)
 
-![alt text](<Screenshot 2025-03-15 185506.png>)
+![alt text](<image/image4.png>)
 
-![alt text](<Screenshot 2025-03-15 185844.png>)
+![alt text](<image/image5.png>)
 
-![alt text](<Screenshot 2025-03-15 192206.png>)
+![alt text](<image/image6.png>)
+
+![alt text](<image/image7.png>)
